@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/remove-element/
-// Solved on: 2026-10-20T17:46:43.479Z
+// Solved on: 2026-10-20T17:46:58.299Z
 
 class Solution {
     public int removeElement(int[] nums, int val) {
