@@ -2,8 +2,8 @@
 // Platform: codechef
 // Language: Java​
 // Verdict: Accepted
-// URL: https://www.codechef.com/practice/course/accenture-interview-questions/ACCNTRE05/problems/DPNMAO02?tab=statement
-// Solved on: 2026-10-21T13:52:48.703Z
+// URL: https://www.codechef.com/practice/course/accenture-interview-questions/ACCNTRE05/problems/DPNMAO02
+// Solved on: 2026-10-22T00:49:21.953Z
 
 listen
 silent
