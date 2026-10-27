@@ -1,0 +1,8 @@
+// Problem: The Sticky Keypad
+// Platform: codechef
+// Language: %d
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1377870041
+// Solved on: 2026-10-27T16:42:23.542Z
+
+// source not captured automatically - open the solution page and copy it manually
