@@ -4,7 +4,7 @@
 // Language: java
 // Verdict: Accepted
 // URL: https://leetcode.com/problems/two-sum/
-// Solved on: 2026-10-23T10:53:13.846Z
+// Solved on: 2026-10-30T17:46:48.712Z
 
 class Solution {
     public int[] twoSum(int[] nums, int target) {
