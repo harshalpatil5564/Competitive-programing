@@ -10,7 +10,7 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/LPJAAS10/problems/LJAAS99?tab=solution
-// Solved on: 2026-10-30T19:39:35.673Z
+// Solved on: 2026-10-30T19:39:45.143Z
 
 class Codechef
 {
