@@ -29,7 +29,7 @@ class Codechef
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/learn/course/java-beginner-v2-p1/BJ00BP08A_V2/problems/BMJ208A?tab=solution
-// Solved on: 2026-11-02T17:38:18.135Z
+// Solved on: 2026-11-02T17:38:30.015Z
 
 // Click on 'Submit' to check the output of the functions
 // Click on 'Next' to proceed
@@ -57,4 +57,3 @@ class Codechef
         System.out.println(b % c);
         System.out.println(b % d);
 	}
-}
