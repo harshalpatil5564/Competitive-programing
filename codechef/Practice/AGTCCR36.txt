@@ -1,0 +1,8 @@
+// Problem: AGTCCR36
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/practice/course/accenture-interview-questions/ACCNTRE04/problems/AGTCCR36
+// Solved on: 2026-11-03T16:47:33.558Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
