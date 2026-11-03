@@ -1,0 +1,8 @@
+// Problem: HDLVHR08
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/learn/course/rcpit-aiml-s5-ai-2026/UYGEQ01/problems/HDLVHR08
+// Solved on: 2026-11-03T17:50:02.496Z
+
+// source not captured automatically - copy it from the editor and use Manual Push
