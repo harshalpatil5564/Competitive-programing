@@ -1,0 +1,8 @@
+// Problem: String Operations
+// Platform: codechef
+// Language: unknown
+// Verdict: Accepted
+// URL: https://www.codechef.com/viewsolution/1135829648
+// Solved on: 2026-11-16T18:04:52.442Z
+
+// source not captured automatically - open the solution page and copy it manually
