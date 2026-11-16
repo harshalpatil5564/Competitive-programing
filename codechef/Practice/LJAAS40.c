@@ -17,7 +17,7 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS40?tab=solution
-// Solved on: 2026-10-30T16:59:36.628Z
+// Solved on: 2026-11-16T18:06:02.422Z
 
 class Codechef
 {
