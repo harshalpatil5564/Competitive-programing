@@ -10,7 +10,7 @@
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/LPJAAS04/problems/LJAAS39?tab=solution
-// Solved on: 2026-11-16T18:05:50.523Z
+// Solved on: 2026-11-21T17:26:20.768Z
 
 public class Main {
     public static void main(String[] args) {
