@@ -14,7 +14,7 @@ class Codechef
 }
 // Verdict: Accepted
 // URL: https://www.codechef.com/practice/course/java/PJA01/problems/INSTNOODLE?tab=Help
-// Solved on: 2026-11-24T23:19:25.481Z
+// Solved on: 2026-11-24T23:21:12.098Z
 
 import java.util.*;
 import java.lang.*;
